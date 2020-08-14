@@ -1,0 +1,16 @@
+HTTP
+
+HTTPS
+
+
+Web Server
+
+Client(客户;顾客)：Browser（浏览器）
+
+B/S
+
+C/S（包含B/S）
+
+Web page 被 Web Server Host Web 资源  URL(unify resource locator)-网址
+通信协议，http
+渲染  Render
